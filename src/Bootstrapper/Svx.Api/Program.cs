@@ -1,6 +1,13 @@
 var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+// Add Services to the container.
 
-app.MapGet("/", () => "Hello World!");
+
+
+
+var app = builder.Build();
+// Configure the HTTP request pipeline. 
+
+
+
 
 app.Run();
