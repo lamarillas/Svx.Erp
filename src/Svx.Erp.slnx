@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Folder Name="/Bootstrapper/">
+    <Project Path="Bootstrapper/Svx.Api/Svx.Api.csproj" Id="3456749a-877d-4b4d-96ca-b4a997a29516" />
+  </Folder>
+  <Folder Name="/Modules/" />
+  <Folder Name="/Shared/" />
+</Solution>
