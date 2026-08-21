@@ -6,5 +6,7 @@
   <Folder Name="/Modules/Catalogos/">
     <Project Path="Modules/Catalogos/Svx.Catalogos/Svx.Catalogos.csproj" Id="0f246bd1-f63c-4b48-924a-1c8de6b12760" />
   </Folder>
-  <Folder Name="/Shared/" />
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Svx.Shared/Svx.Shared.csproj" Id="c0cb2bec-d0cd-45e4-99d3-59a040ff5216" />
+  </Folder>
 </Solution>
