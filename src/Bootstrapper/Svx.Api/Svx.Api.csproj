@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Modules\Catalogos\Svx.Catalogos\Svx.Catalogos.csproj" />
+  </ItemGroup>
+
 </Project>
